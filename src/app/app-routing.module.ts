@@ -15,13 +15,6 @@ const routes: Routes = [
 
   {path:'inicio', component: InicioComponent},
   {path: 'tema', component: TemaComponent}
-
-  
-
-
-
-
-
 ];
 
 @NgModule({
